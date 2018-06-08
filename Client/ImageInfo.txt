@@ -1,0 +1,7 @@
+m_pFrameKey를 설정해준다.
+SetRange와 SetAdjust를 설정해준다.
+( 자체적으로 설정해 준다. )
+
+Scene은 따로 각자 만들어주자
+FrameChange로 상태를 설정해준다.
+player의 SceneChange를 그대로 사용하자.

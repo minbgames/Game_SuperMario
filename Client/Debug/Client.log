@@ -1,0 +1,95 @@
+﻿  stdafx.cpp
+  UnderStageScene.cpp
+  Stage.cpp
+  ScrollMgr.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\scrollmgr.cpp(10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\scrollmgr.cpp(11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\scrollmgr.cpp(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\scrollmgr.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\scrollmgr.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SceneMgr.cpp
+  Scene.cpp
+  Player.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\player.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\player.cpp(282): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ObjectMgr.cpp
+  Obj.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\obj.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\obj.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\obj.cpp(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\obj.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MapScene.cpp
+  MyBmp.cpp
+  TurtleMonster.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\turtlemonster.cpp(151): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SoundMgr.cpp
+  ScreenNumber.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\screennumber.cpp(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  QuestionBox.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\questionbox.cpp(66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PlayerSelect.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\playerselect.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PathMgr.cpp
+  PanelMgr.cpp
+  ObstacleMgr.cpp
+  Obstacle.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\obstacle.cpp(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\obstacle.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  NoteBox.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\notebox.cpp(68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\obj.h(18): warning C4172: returning address of local variable or temporary
+  Compiling...
+  Mushroom.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\mushroom.cpp(70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MathMgr.cpp
+  MapPlayer.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\mapplayer.cpp(105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Maingame.cpp
+  Logo.cpp
+  LineMgr.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\linemgr.cpp(184): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Line.cpp
+  Leaf.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\leaf.cpp(79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  KeyMgr.cpp
+  GumbaMonster.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\gumbamonster.cpp(100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FlowerMonster.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\flowermonster.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\flowermonster.cpp(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\flowermonster.cpp(188): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Flower.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\flower.cpp(70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FireMonster.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\firemonster.cpp(88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FinalStageScene.cpp
+  FinalMsg.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\finalmsg.cpp(68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FinalItem.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\finalitem.cpp(83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\finalitem.cpp(93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  EnemyAttack.cpp
+  Effect.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\effect.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Door.cpp
+  Coin.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\coin.cpp(75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  CollisionMgr.cpp
+  Client.cpp
+  CircleMonster.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\circlemonster.cpp(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\circlemonster.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\circlemonster.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Bullet.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\bullet.cpp(122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Boss.cpp
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\boss.cpp(25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\_______jusin_______\api슈퍼마리오 시연회\supermario_complete\client\boss.cpp(115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BmpMgr.cpp
+  Attack.cpp
+  Generating Code...
+  Client.vcxproj -> D:\_______JUSIN_______\API슈퍼마리오 시연회\SuperMario_Complete\Debug\Client.exe
+  Client.vcxproj -> D:\_______JUSIN_______\API슈퍼마리오 시연회\SuperMario_Complete\Debug\Client.pdb (Full PDB)

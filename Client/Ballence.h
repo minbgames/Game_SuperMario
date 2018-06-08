@@ -1,0 +1,25 @@
+#pragma once
+// === PLAYER ========
+#define PLAYER_JUMP_POW 13.f
+#define PLAYER_JUMP_INIT 1.f
+#define PLAYER_JUMP_ZERO 0.f
+#define PLAYER_ACCEL_INC 0.065f
+#define PLAYER_ACCEL_LIMIT 4.5f
+#define PLAYER_STEP_AIR 15.f
+#define PLAYER_STEP_GROUND 10.f
+#define PLAYER_STEP_CTRL_AIR 18.f
+#define PLAYER_STEP_CTRL_GROUND 14.f
+#define PLAYER_MAX_SPEED 8.f
+#define PLAYER_BASIC_SPEED 4.f
+#define PLAYER_SPEED_INC 0.2f
+#define PLAYER_SPEED_ZERO 0.f
+
+// === TURTLE ========
+#define TURTLE_JUMP_POW 15.f
+#define TURTLE_JUMP_INIT 1.f
+#define TURTLE_JUMP_ZERO 0.f
+#define TURTLE_SPEED_NORMAL 3.f
+#define TURTLE_SPEED_ATTACK 8.f
+#define TURTLE_SPEED_ZERO 0.f
+#define TURTLE_ACCEL_THROW_INC 0.05f
+#define TURTLE_ACCEL_FALL_INC 0.1f
